@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4AF47850-85BD-43AD-9584-05E2B0F9C1BE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab5Maistrenko/Program.cs">
+    <Files>
+      <File FileName="Lab5Maistrenko/Program.cs" Line="13" Column="1" />
+      <File FileName="Lab5Maistrenko/Implementation/CustomList.cs" />
+      <File FileName="Lab5Maistrenko/Implementation/Iterator.cs" />
+      <File FileName="Lab5Maistrenko/Interfaces/Iterable.cs" />
+      <File FileName="Lab5Maistrenko/Interfaces/Iterator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab5Maistrenko" expanded="True">
+            <Node name="Lab5" expanded="True">
+              <Node name="Implementation" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

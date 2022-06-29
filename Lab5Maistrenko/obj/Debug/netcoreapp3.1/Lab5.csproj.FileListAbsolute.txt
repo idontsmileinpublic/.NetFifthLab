@@ -1,0 +1,12 @@
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/bin/Debug/netcoreapp3.1/Lab5.deps.json
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/bin/Debug/netcoreapp3.1/Lab5.runtimeconfig.json
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/bin/Debug/netcoreapp3.1/Lab5.runtimeconfig.dev.json
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/bin/Debug/netcoreapp3.1/Lab5.dll
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/bin/Debug/netcoreapp3.1/Lab5.pdb
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/obj/Debug/netcoreapp3.1/Lab5.csprojAssemblyReference.cache
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/obj/Debug/netcoreapp3.1/Lab5.AssemblyInfoInputs.cache
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/obj/Debug/netcoreapp3.1/Lab5.AssemblyInfo.cs
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/obj/Debug/netcoreapp3.1/Lab5.csproj.CoreCompileInputs.cache
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/obj/Debug/netcoreapp3.1/Lab5.dll
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/obj/Debug/netcoreapp3.1/Lab5.pdb
+/Users/sonyamaiystrenko/Projects/Lab5Maistrenko/Lab5Maistrenko/obj/Debug/netcoreapp3.1/Lab5.genruntimeconfig.cache
